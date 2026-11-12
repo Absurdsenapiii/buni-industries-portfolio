@@ -1,10 +1,16 @@
 # Gallery notes
 
-This gallery contains selected branding and factory-world artwork supplied from the founder's Buni project folders and authorized for this public portfolio on 12 November 2026.
+Eleven selected pictures from the founder's Buni project folders, authorized for this public portfolio on 12 November 2026.
 
-- **Buni Industries banner:** a Buni brand composition.
-- **Factory illustrations 1–4:** selected artwork from the Buni Media Hub factory-update project.
+## Branding and factory world
+- One Buni Industries brand banner.
+- Four Buni Media Hub factory-update illustrations.
 
-All five selected pictures were visually reviewed before publication. They contain no adult imagery or private analytics. Only display JPEG copies are included; production files, personal folder paths and project packages are not published.
+## Character and narrative projects
+- Two I Love You thumbnails from the Malfoid series: unofficial fan/adaptation work.
+- Two Save a Little Love for Me thumbnails from the Wolf Mama project: Buni's creative interpretation, without claiming an official character licence or exclusive underlying character rights.
+- Two POTTAH! narrative thumbnails: After Graduation and The Last Promise. Story/promotional art, not current Godot gameplay screenshots; unofficial fan/adaptation work.
 
-These are creative illustrations, not evidence of a finished game or an operational factory. Inclusion does not grant a reuse licence. Ask the owner before reusing the artwork.
+All eleven selected pictures were visually reviewed before publication. No adult imagery, private analytics, credentials, source packages or personal folder paths are included. Only display JPEG copies are published.
+
+The pictures do not establish a completed game, an official franchise relationship, licensing, or endorsement. Third-party characters and franchises retain their respective rights. Inclusion does not grant a reuse licence; ask the owner before reusing the artwork.

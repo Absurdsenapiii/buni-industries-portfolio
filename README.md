@@ -7,7 +7,7 @@ Buni Industries brings together creative media, software experiments and interac
 
 ## Picture gallery
 
-Selected Buni branding and factory-world artwork, shared for this portfolio. Click a picture to open it.
+Selected branding, factory-world illustrations, character stories and visual-novel art, shared for this portfolio. Click a picture to open it.
 
 ![Buni Industries character and brand banner](assets/gallery/buni-banner.jpg)
 
@@ -21,7 +21,33 @@ Selected Buni branding and factory-world artwork, shared for this portfolio. Cli
 | [![Expanded creative factory beneath colourful fireworks](assets/gallery/factory-3.jpg)](assets/gallery/factory-3.jpg) | [![Buni character smiling with the factory and fireworks behind her](assets/gallery/factory-4.jpg)](assets/gallery/factory-4.jpg) |
 | **Music, animation and playful worldbuilding** | **Buni's visual identity** |
 
-These are illustrations, not screenshots of a released game. [Gallery notes](docs/gallery.md).
+### Malfoid series · fan/adaptation work
+
+Visual storytelling and thumbnail design from **I Love You**. This is unofficial fan/adaptation work, not an official franchise release.
+
+| I Love You | I Meant to Say That |
+| --- | --- |
+| ![Malfoid series: I Love You close-up thumbnail](assets/gallery/malfoid-love.jpg) | ![Malfoid series: romantic confession thumbnail](assets/gallery/malfoid-confession.jpg) |
+
+### Wolf Mama · character storytelling
+
+Selected **Save a Little Love for Me** project thumbnails: affection, family and a warm visual tone. Shown as Buni's creative interpretation; no claim of exclusive ownership of an underlying character or of an official licence is made here.
+
+| Save a Little Love for Me | There's Room for You |
+| --- | --- |
+| ![Wolf Mama: Save a Little Love for Me thumbnail](assets/gallery/wolf-mama-love.jpg) | ![Wolf Mama with three pups: There's Room for You thumbnail](assets/gallery/wolf-mama-room.jpg) |
+
+### POTTAH! interactive VN · in development
+
+Story and promotional artwork from the **After Graduation** and **The Last Promise** narrative material. These images show the visual direction, **not screenshots of the current Godot build**. For verified engineering progress and limitations, see the [game portfolio](https://github.com/Absurdsenapiii/buni-game-portfolio).
+
+| After Graduation | The Last Promise |
+| --- | --- |
+| ![POTTAH narrative artwork: Come With Me](assets/gallery/vn-after-graduation.jpg) | ![POTTAH narrative artwork: The Last Promise](assets/gallery/vn-last-promise.jpg) |
+
+The Malfoid and POTTAH material is unofficial fan/adaptation work. Referenced franchises and third-party characters belong to their respective rights holders. This portfolio does not imply affiliation, endorsement or licensing.
+
+[Gallery notes and image context](docs/gallery.md).
 
 ## Selected projects
 
