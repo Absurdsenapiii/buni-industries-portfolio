@@ -27,17 +27,9 @@ Selected examples:
 
 **Status:** historical, not supported production offerings. Source presence does not establish trading performance, security or continued compatibility. No financial outcome is claimed. Do not use archived financial tooling with funds or credentials without an appropriate independent review.
 
-## 4. Research, publishing and worldbuilding
+## 4. Buni Media Hub
 
-**Public evidence:** [Absurd Alignment Lab](https://github.com/Absurdsenapiii/absurd-alignment-lab).
-
-An archive of articles, research notes, lore and creative material. It records an earlier period of exploration and the subsequent transition toward creative media.
-
-**Status:** historical archive. Project-authored research is not evidence of peer review or institutional endorsement. Read its dated clarification alongside older material.
-
-## 5. Buni Media Hub
-
-**Public evidence:** [dated creative-transition statement](https://github.com/Absurdsenapiii/absurd-alignment-lab/blob/main/README.md) and the [public BMH collector](https://github.com/Absurdsenapiii/buni-youtube-collector).
+**Public evidence:** the [public BMH collector](https://github.com/Absurdsenapiii/buni-youtube-collector).
 
 The founder identifies music, animation and character storytelling as the current creative focus. This portfolio's current technical examples are the public-data integration and Godot game work.
 
