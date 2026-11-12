@@ -5,6 +5,24 @@ Buni Industries brings together creative media, software experiments and interac
 
 [Explore the projects](docs/projects.md) · [Read the timeline](docs/history.md) · [Sources and status](docs/sources.md)
 
+## Picture gallery
+
+Selected Buni branding and factory-world artwork, shared for this portfolio. Click a picture to open it.
+
+![Buni Industries character and brand banner](assets/gallery/buni-banner.jpg)
+
+| The creative factory | At the controls |
+| --- | --- |
+| [![An illuminated bunny-themed creative factory at night](assets/gallery/factory-1.jpg)](assets/gallery/factory-1.jpg) | [![Buni character operating the factory control console](assets/gallery/factory-2.jpg)](assets/gallery/factory-2.jpg) |
+| **A world built around making things** | **Character-led storytelling** |
+
+| The factory grows | A moment to celebrate |
+| --- | --- |
+| [![Expanded creative factory beneath colourful fireworks](assets/gallery/factory-3.jpg)](assets/gallery/factory-3.jpg) | [![Buni character smiling with the factory and fireworks behind her](assets/gallery/factory-4.jpg)](assets/gallery/factory-4.jpg) |
+| **Music, animation and playful worldbuilding** | **Buni's visual identity** |
+
+These are illustrations, not screenshots of a released game. [Gallery notes](docs/gallery.md).
+
 ## Selected projects
 
 | Project | What to explore | Status |
@@ -36,6 +54,6 @@ The [timeline](docs/history.md) connects each entry to its source.
 
 Every project has a status. A published repository proves that material is available, not that every historical claim or program has been independently validated.
 
-Private production systems, credentials, unpublished assets and private analytics are not included. Linked projects retain their own licences and restrictions.
+Private production systems, credentials, unreleased production packages and private analytics are not included. Linked projects retain their own licences and restrictions.
 
 **Last reviewed: 12 November 2026.**
